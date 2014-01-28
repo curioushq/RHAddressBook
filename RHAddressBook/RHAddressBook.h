@@ -38,7 +38,7 @@
 
 //include geocoding support in RHAddressbook. (0 == NO; 1 == YES;)
 #ifndef RH_AB_INCLUDE_GEOCODING
-    #define RH_AB_INCLUDE_GEOCODING 1
+    #define RH_AB_INCLUDE_GEOCODING 0
 #endif
 
 
